@@ -3,5 +3,5 @@ Simple CLI for programmatic reporting and network optimization on SpringServe Ad
 
 npm install <-- for package.json
 
-* needs refinement, organization, and explanation
+* needs refinement, organization, and explanation of usage
 
