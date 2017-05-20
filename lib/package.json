@@ -1,5 +1,5 @@
 {
-  "name": "springserve_cli",
+  "name": "smartserve",
   "version": "1.0.0",
   "description": "simple springserve api tool",
   "main": "auth.js",
@@ -9,6 +9,9 @@
   "keywords": [
     "springserve",
     "api",
+    "programmatic',
+    "node",
+    "automation",
     "ad server",
     "adtech",
     "cli"
