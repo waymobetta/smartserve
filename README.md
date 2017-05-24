@@ -4,7 +4,9 @@ Simple CLI for programmatic reporting and network optimization on SpringServe Ad
 
 ### installation
 
-install using node package manager -> https://www.npmjs.com/package/smartserve
+install using node package manager
+
+https://www.npmjs.com/package/smartserve
 ```bash
 $ npm install smartserve
 ```
