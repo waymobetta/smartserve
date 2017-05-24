@@ -1,6 +1,6 @@
 {
   "name": "smartserve",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "simple springserve api tool",
   "main": "auth.js",
   "scripts": {
